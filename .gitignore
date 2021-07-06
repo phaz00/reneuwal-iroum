@@ -1,0 +1,12 @@
+# images폴더 무시
+!images/
+
+# 파일무시
+*.jpg
+*.png
+*.gif
+*.pdf
+*.ai
+*.psd
+*.hwp
+*.ppt
